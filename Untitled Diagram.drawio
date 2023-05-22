@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T08:55:17.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="T9p89DDlTI04sncAvsBO" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T08:58:23.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="OykdsxeuDH-GD4UC5xRX" version="20.8.16" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1195" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="770" y="175" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="220" width="910" height="370" as="geometry" />
+          <mxGeometry x="30" y="220" width="1120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="230" width="190" height="160" as="geometry" />
@@ -49,25 +49,25 @@
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-4" value="Entrance/Stair" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="500" width="490" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sEgmtD1Y4ZO5eSFx-lYp-5" target="sEgmtD1Y4ZO5eSFx-lYp-10" edge="1">
+        <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sEgmtD1Y4ZO5eSFx-lYp-5" target="sEgmtD1Y4ZO5eSFx-lYp-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="300" />
-              <mxPoint x="550" y="310" />
-              <mxPoint x="470" y="310" />
+              <mxPoint x="560" y="300" />
+              <mxPoint x="560" y="330" />
+              <mxPoint x="475" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-27" value="Discharge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sEgmtD1Y4ZO5eSFx-lYp-26" vertex="1" connectable="0">
           <mxGeometry x="-0.3603" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-84" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="537" y="260" width="163" height="40" as="geometry" />
+        <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-5" value="Boiling / Fermentation" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="1" vertex="1">
+          <mxGeometry x="537" y="260" width="243" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-8" value="Storage/ Chiller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry x="800" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sEgmtD1Y4ZO5eSFx-lYp-9" target="sEgmtD1Y4ZO5eSFx-lYp-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="490" y="280" width="30" height="11" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-10" value="Toilet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="453" y="240" width="67" height="40" as="geometry" />
+          <mxGeometry x="430" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sEgmtD1Y4ZO5eSFx-lYp-17" target="sEgmtD1Y4ZO5eSFx-lYp-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,19 +128,19 @@
           <mxGeometry x="440" y="607" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-34" value="Office" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="237.5" width="150" height="335" as="geometry" />
+          <mxGeometry x="1050" y="237.5" width="90" height="342.5" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-35" value="Storage Racks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="230" width="70" height="195" as="geometry" />
+          <mxGeometry x="890" y="234.5" width="140" height="195" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-36" value="Office" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="450" width="150" height="122.5" as="geometry" />
+          <mxGeometry x="830" y="450" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-37" value="Office" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="451.75" width="150" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-39" value="Resting Space" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="230" width="70" height="350" as="geometry" />
+        <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-39" value="Resting / Ribat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="230" width="270" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-40" value="Bottling/Storage/ Chiller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="451.75" width="120" height="44.5" as="geometry" />
@@ -152,7 +152,13 @@
           <mxGeometry x="336.25" y="341" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UhZAmVKIM8HB2m7Gm_mt-4" value="Door" style="shape=or;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="336.25" y="433.75" width="60" height="70.5" as="geometry" />
+          <mxGeometry x="336.25" y="429.5" width="60" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UhZAmVKIM8HB2m7Gm_mt-5" value="Sink" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UhZAmVKIM8HB2m7Gm_mt-6" value="Toilet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336.25" y="240" width="83.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
