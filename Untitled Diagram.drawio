@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T11:21:07.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RvsjNwWZls0hYHNpPHcL" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T15:22:24.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6JrmCP0zLOLhjAlFZTba" version="20.8.16" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1195" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="220" width="1120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-2" value="Enstek Layout Plan" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="150" width="280" height="50" as="geometry" />
+          <mxGeometry x="30" y="150" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="230" width="190" height="160" as="geometry" />
@@ -96,8 +96,8 @@
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-37" value="Office" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="451.75" width="150" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-39" value="Resting / Ribat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="270" height="350" as="geometry" />
+        <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-39" value="Resting / Tariqat Space" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="230" width="280" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sEgmtD1Y4ZO5eSFx-lYp-40" value="Bottling/Storage/ Chiller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="451.75" width="120" height="44.5" as="geometry" />
@@ -137,6 +137,15 @@
         </mxCell>
         <mxCell id="UhZAmVKIM8HB2m7Gm_mt-14" value="Plug Point" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="614.17" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UhZAmVKIM8HB2m7Gm_mt-17" value="Cooking Area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="237.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UhZAmVKIM8HB2m7Gm_mt-18" value="Fridge / Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="237.5" width="123.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UhZAmVKIM8HB2m7Gm_mt-19" value="Bed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="40" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
